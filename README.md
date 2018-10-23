@@ -23,4 +23,4 @@ Design is optimized and light weight. Do not assume people have unlimited data. 
 ### Ethical Design
 Design for well being; do not abuse people's attention, designing attention-grabbing techniques to the detriment of our health or interferes with the person's goal. Avoid dark and anti patterns.
 
-We have a repsonsibility to create a better future.
+We have a responsibility to create a better future.
