@@ -19,7 +19,7 @@ The content is written and designed for everyone regardless of physical ability,
 ### Accessible Design (Accessibility)
 A mismatch in interaction between the features of a person's body and the features of the environment in which they live must not prevent the person from accessing content. Content may be interacted with while using assistive technologies and the shortcomings of technology do not prevent someone from accessing content.
 
-### Responsible Design (Sustainability)
+### Responsible or Elegant Design (Sustainability)
 Design is optimized and light weight. Do not assume people have unlimited data. Optimized code reduces carbon footprint, and all hardware is also sustainable and efficient.
 
 ### Ethical Design
