@@ -23,6 +23,6 @@ A mismatch in interaction between the features of a person's body and the featur
 Design is optimized and light weight. Do not assume people have unlimited data. Optimized code reduces carbon footprint, and all hardware is also sustainable and efficient.
 
 ### Ethical Design
-Design for well being; do not abuse people's attention, designing attention-grabbing techniques to the detriment of our health or interferes with the person's goal. Avoid dark and anti patterns.
+Design for well being; do not abuse people's attention, designing attention-grabbing techniques to the detriment of our health or interferes with the person's goal. Avoid dark and anti patterns, don't introduce obstacles to the content.
 
 We have a responsibility to create a better future.
