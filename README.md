@@ -1,7 +1,9 @@
 # Web Manifesto
 Technology is simply a tool used to enhance our information experience, **it is not the goal**.
 
-Often overlooked in web development is the human. We think about design, we think about the technology, and we put effort into both. Design *should* include human factors, but often we rely on assumptions and not user research (or more academically through psychology, human behavior studies, or neuroeconomics).
+Often overlooked in web development is the human. We think about design, we think about the technology, and we put effort into both. Design *should* include human factors, but often we rely on assumptions and not user research (or lessons from psychology, human behavior studies, or neuroeconomics). 
+
+Avoid self-centered design by following the driving principles outlined below.
 
 ## Driving Principles
 
