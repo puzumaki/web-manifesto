@@ -8,7 +8,7 @@ Avoid self-centered design by following the driving principles outlined below.
 ## Driving Principles
 
 ### Mindful Design
-Simply be aware, realize we are not our users, and recognize when we base decisions on assumptions. 
+Simply be aware, realize we are not our users, and recognize when we base decisions on assumptions. Be incredibly intentional.
 
 ### Inclusive Design
 The content is written and designed for everyone regardless of gender, sexual orientation, and emotional state.
