@@ -15,7 +15,7 @@ Write content designed for everyone regardless of gender, sexual orientation, an
 Write content designed for everyone regardless of physical ability, device used to access, and the limitations the device forces on the human.
 
 ### Accessible Design (Accessibility)
-A mismatch in interaction between the features of a person's body and the features of the environment in which they live must not prevent the person from accessing content. IThe use of assistive technologies and the shortcomings of technology must not prevent access.
+A mismatch in interaction between the features of a person's body and the features of the environment in which they live must not prevent the person from accessing content. The use of assistive technologies and shortcomings of technology must not prevent access.
 
 ### Responsible or Elegant Design (Sustainability)
 Optimize design and be light weight. Do not assume people have unlimited data. Optimized code reduces carbon footprint, and all hardware is also sustainable and efficient.
